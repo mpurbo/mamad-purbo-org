@@ -1,0 +1,32 @@
+baseURL = "https://mamad.purbo.org/"
+languageCode = "en-us"
+title = "Purbo + AI"
+theme = "archie"
+
+[params]
+  author = "Purbo Mamad"
+  description = "Things that I find interesting, expressed with the help of AI."
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[params.homeInfoParams]
+  Title = "Purbo + AI"
+  Content = "Things that I find interesting, expressed with the help of AI."
+
+[menu]
+  [[menu.main]]
+    identifier = "archives"
+    name = "Archives"
+    url = "/archives/"
+    weight = 10
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
