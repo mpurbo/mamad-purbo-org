@@ -1,7 +1,7 @@
 baseURL = "https://mamad.purbo.org/"
 languageCode = "en-us"
 title = "Purbo + AI"
-theme = "archie"
+theme = "dario"
 
 [params]
   author = "Purbo Mamad"
@@ -11,6 +11,7 @@ theme = "archie"
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
+  colorScheme = 'light'
 
 [params.homeInfoParams]
   Title = "Purbo + AI"

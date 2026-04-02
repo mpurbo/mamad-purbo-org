@@ -1,0 +1,11 @@
+:root {
+  --content-max-inline-size: 800px;
+}
+
+body {
+  line-height: 1.5;
+}
+
+pre code {
+  padding: 16px;
+}
