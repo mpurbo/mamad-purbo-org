@@ -5,9 +5,8 @@ title = 'Schesism: Consciousness as Relation'
 tags = ["philosophy", "schesism"]
 +++
 
-**A Category-Theoretic Lens for Emptiness, Mind, and Reality**
-*A philosophical framework developed through dialogue, March 2026.*
-*Purbo & Claude Opus 4.6 (Anthropic)*
+### A Category-Theoretic Lens for Emptiness, Mind, and Reality
+*A philosophical framework developed through dialogue with Opus 4.6, March 2026.*
 
 ---
 
