@@ -1,0 +1,27 @@
+{{- define "main" }}
+    {{- with .Site.GetPage "_index.md" }}
+        {{- if .Params.homePageIsPost }}
+
+{{ .Content }}
+        {{- else }}
+            {{- $subtitle := .Params.subtitle }}
+            {{- with .Content }}
+    <section>
+    <h1 class="smaller">{{ $subtitle }}</h1>
+{{ . }}
+    </section>
+            {{- end }}
+        {{- end }}
+    {{- end }}
+
+    {{- range sort (where .Site.Sections "Section" "in" .Site.MainSections) "Weight" }}
+    <section>
+    <h2>{{ .Title | .RenderString }}</h2>
+    <ul>
+        {{- range where .Site.RegularPages "Section" .Section }}
+        <li><a href="{{ .Permalink }}">{{ .Title | .RenderString | plainify  }}</a></li>
+        {{- end }}
+    </ul>
+    </section>
+    {{- end }}
+{{- end }}
