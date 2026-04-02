@@ -36,7 +36,7 @@ jobs:
 
           ssh-keyscan -p ${{ secrets.DEPLOY_PORT }} -H ${{ secrets.DEPLOY_HOST }} >> ~/.ssh/known_hosts
 
-          rsync -avz --delete \
+          rsync -avzO --delete \
             -e "ssh -i ~/.ssh/deploy_key -p ${{ secrets.DEPLOY_PORT }}" \
             public/ \
             purbo@${{ secrets.DEPLOY_HOST }}:/var/www/mamad.purbo.org/public_html/
