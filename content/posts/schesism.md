@@ -2,10 +2,11 @@
 date = '2026-04-02T22:44:27+07:00'
 draft = false
 title = 'Schesism: Consciousness as Relation'
+description = 'A Category-Theoretic Lens for Emptiness, Mind, and Reality'
 tags = ["philosophy", "schesism"]
+toc = true
 +++
 
-### A Category-Theoretic Lens for Emptiness, Mind, and Reality
 *A philosophical framework developed through dialogue with Opus 4.6, March 2026.*
 
 ---
