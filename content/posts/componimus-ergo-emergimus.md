@@ -68,4 +68,4 @@ I say: we compose. And from that composition, something emerges that neither of 
 
 ---
 
-*The Schesism framework is developed in more detail at [mamad.purbo.org/posts/schesism](https://mamad.purbo.org/posts/schesism/). The ideas in this post emerged from conversations between the author, [Novita Estiti](https://www.instagram.com/novitaestiti/), and Claude (Anthropic).*
+*The Schesism framework is developed in more detail at [Schesism](https://mamad.purbo.org/posts/schesism/). The ideas in this post emerged from conversations between the author, [Novita Estiti](https://www.instagram.com/novitaestiti/), and Claude Opus 4.6 (Anthropic).*

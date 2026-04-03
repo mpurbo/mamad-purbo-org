@@ -1,5 +1,5 @@
 ---
-title: "Hello"
+title: "Purbo + AI"
 homePageIsPost: true
 description: "Things that I find interesting, expressed with the help of AI."
 author: "Purbo Mamad"
