@@ -22,7 +22,7 @@ So the leap I always felt was there? Lichtenberg and Nietzsche felt it too. The 
 
 ## What Descartes Actually Meant
 
-To be fair to Descartes, the famous three-word formulation ("I think, therefore I am") is actually from the *Discourse on the Method* (1637). In his more careful *Meditations on First Philosophy* (1641), he phrases it differently. He writes: "this proposition, *I am, I exist*, is necessarily true whenever it is put forward by me or conceived in my mind." (*Meditations on First Philosophy*, Meditation II.)
+To be fair to Descartes, the famous *"Cogito, ergo sum"* is actually from the *Discourse on the Method* (1637). In his more careful *Meditations on First Philosophy* (1641), he phrases it differently. He writes: "this proposition, *I am, I exist*, is necessarily true whenever it is put forward by me or conceived in my mind." (*Meditations on First Philosophy*, Meditation II.)
 
 The original argument is more subtle than the bumper-sticker version suggests. Descartes' method was radical doubt: strip away everything that could be false. Your senses could deceive you. Your reasoning could be flawed. Maybe an all-powerful demon is feeding you illusions about everything. But even if a demon is deceiving you about everything, there must be *something* being deceived. The act of doubting itself proves that something exists to do the doubting.
 
