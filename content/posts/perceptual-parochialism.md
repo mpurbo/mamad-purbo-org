@@ -26,7 +26,9 @@ But here's the deeper implication, and this is where it gets interesting. Stanis
 
 So when someone tries to intuitively grasp the 3.8 billion years of evolutionary history, their untrained cognition compresses most of it into a vague blur. The difference between a million years and a billion years *feels* roughly the same, even though one is a thousand times larger. The entire history of modern humans, some 300,000 years, is a rounding error in evolutionary time. But it doesn't *feel* like a rounding error. It feels like "a really long time," which is the same label our brains apply to anything beyond a few generations.
 
-This is the perceptual bottleneck. Not a failure of intelligence, but a limitation of the cognitive hardware that intelligence runs on.
+This is the perceptual bottleneck. Not a failure of intelligence, but a limitation of the cognitive hardware that intelligence runs on.[^1]
+
+[^1]: This framing treats cognition as an object with fixed properties, which is a deliberate simplification. In [Schesism](https://mamad.purbo.org/posts/schesism/), a philosophical framework I've been developing, intelligence is better understood as a relational property: not something a mind *has*, but something that emerges from the interaction between minds, tools, traditions, and the world. The "limitation" described here isn't a permanent feature of the hardware. It's what cognition looks like before those connections are made. I've kept the simpler framing here for readability.
 
 Consider a few more examples of how this bottleneck distorts our thinking:
 
