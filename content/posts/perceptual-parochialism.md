@@ -10,7 +10,7 @@ I used to get into debates about evolution in online forums. Not with cranks, bu
 
 I kept trying different angles, different explanations. None of them worked. Eventually I stopped, not because I lost interest, but because I started suspecting the disagreement wasn't really about evidence. Something else was going on, something I couldn't quite name.
 
-I think the answer isn't about intelligence. It's about scale. Specifically, it's about a deep limitation in how all of us perceive and reason about anything that falls outside the narrow window of our direct experience. I've been calling this *perceptual parochialism*: the tendency to treat the scale of everyday human life as the default reality, and to distort or reject anything that operates outside it.
+I think the answer isn't about evidence. It's about scale. Specifically, it's about a deep limitation in how all of us perceive and reason about anything that falls outside the narrow window of our direct experience. I've been calling this *perceptual parochialism*: the tendency to treat the scale of everyday human life as the default reality, and to distort or reject anything that operates outside it.
 
 This isn't a character flaw. It's the factory setting. Mine included.
 
