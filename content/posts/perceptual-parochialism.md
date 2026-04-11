@@ -96,7 +96,7 @@ That's no longer true. Climate change, pandemic response, nuclear risk, AI devel
 
 We are increasingly a species whose survival depends on reasoning well about scales we are constitutionally bad at perceiving. Whether we can develop the cognitive tools, cultural practices, or technological augmentations to bridge that gap may be one of the defining questions of this century.
 
-# Further Readings
+## Further Readings
 
 - [**Weber-Fechner Law**](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law): The foundational psychophysics of logarithmic perception. Any introductory psychophysics or cognitive psychology textbook covers it, or look for Fechner's "Elements of Psychophysics" (1860) for the original formulation.
 - [**Stanislas Dehaene, "The Number Sense"** (2011)](https://en.wikipedia.org/wiki/Number_sense): How the brain processes numbers, including the logarithmic number line and its implications.
