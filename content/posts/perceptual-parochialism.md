@@ -1,8 +1,8 @@
 +++
 date = '2026-04-11T14:02:15+07:00'
 draft = true
-title = 'Perceptual Parochialism: The Scale We Can't See'
-tags = ["philosophy"]
+title = "Perceptual Parochialism: The Scale We Can't See"
+tags = ["philosophy", "psychology"]
 toc = true
 +++
 
