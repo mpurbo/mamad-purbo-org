@@ -1,6 +1,6 @@
 +++
 date = '2026-04-11T14:02:15+07:00'
-draft = true
+draft = false
 title = "Perceptual Parochialism: The Scale We Can't See"
 tags = ["philosophy", "psychology"]
 toc = true
