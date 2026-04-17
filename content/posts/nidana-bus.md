@@ -6,7 +6,7 @@ tags = ["mobile", "web", "functional programming", "software architecture"]
 toc = true
 +++
 
-I've been dabbling in bus-based architecture for the frontend for over 10 years, and have successfully applied it in one form or another to production apps with millions of users. This is the ideal architecture as far as I can envision (with the help of Claude Opus 4.6). I intend to build complete libraries for multiple platforms based on this [Nidana Bus Reference Architecture](https://github.com/Samsara-Stream/nidana-bus-dart/blob/main/docs/nidana-bus-ref-arch-v0_10.md).
+I've been dabbling in bus-based architecture for the frontend for over 10 years, and have successfully applied it in one form or another to production apps with millions of users. This is the ideal architecture as far as I can envision (with the help of Claude Opus 4.6). I intend to build complete libraries for multiple platforms based on this [Nidana Bus Reference Architecture](https://github.com/Samsara-Stream/nidana-bus-dart/blob/main/docs/nidana-bus-ref-arch-v0_11.md).
 
 ---
 
@@ -114,4 +114,4 @@ If your app has outgrown the point where "just wire it together" is maintainable
 
 ---
 
-*The full reference architecture (covering lifecycle management, data contracts, platform mappings for Dart/Flutter, Kotlin/Android, Swift/iOS, and TypeScript/Web, formal properties, and more) is available in the [Nidana Bus Reference Architecture](https://github.com/Samsara-Stream/nidana-bus-dart/blob/main/docs/nidana-bus-ref-arch-v0_10.md).*
+*The full reference architecture (covering lifecycle management, data contracts, platform mappings for Dart/Flutter, Kotlin/Android, Swift/iOS, and TypeScript/Web, formal properties, and more) is available in the [Nidana Bus Reference Architecture](https://github.com/Samsara-Stream/nidana-bus-dart/blob/main/docs/nidana-bus-ref-arch-v0_11.md).*
