@@ -50,6 +50,10 @@ pre code {
   color: var(--text-color);
 }
 
+figure figcaption {
+  text-align: center;
+}
+
 /* Hide TOC on narrow screens */
 @media (max-width: 1076px) {
   .toc-container {
